@@ -1,0 +1,14 @@
+----- important bits of rick tribute page -----
+
+    Desktop lay out.
+    IMg of rick overtext box of information
+    responsive page from mobile to Desktop
+    should have different sections
+
+---- cool ideas for page ----
+    - on page load a collage of images play.
+    These than load into one image which than displays a 
+    quote underneath.
+    - Should have different sections that load in on scroll
+    -(v1) page info should transition in. 
+        Image first -> header info -> rest of page. 
