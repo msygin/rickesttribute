@@ -1,5 +1,70 @@
-* {
-    margin: 0px;
+body {
+    margin: 0;
     font-size: 16px;
-    background-color: #F8F8FF;
+    font-family: 'monserrat', sans-serif;
+    background-color: #F8F9FA;
+}
+
+h1 h2 h3 {
+    font-family: 'open sans', sans-serif;
+}
+
+
+
+.main-header {
+
+    width: 30%;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 6em;
+    color: #343A40;
+
+}
+
+
+#title {
+
+    font-weight: 900;
+    font-size: 2em;
+    color: #343A40;
+    margin-bottom: 1em;
+}
+
+#rick-image {
+
+
+    width: 23em;
+    border-radius: 25%;
+    border: .5rem solid;
+    border-color: #ADB5BD;
+    margin-bottom: 2rem;
+    box-shadow: 5px 2px 5px #CED4DA;
+
+}
+
+header p {
+    letter-spacing: .1em;
+    line-height: 1.5em;
+    font-weight: 400;
+}
+
+#timeline-body {
+
+    width: 50%;
+    margin: 0, auto;
+    text-align: center;
+    display: inline-block;
+    float: left;
+
+}
+
+#statinfo {
+    display: inline-block;
+    float: right;
+    color: #343A40;
+    background-color: #E9ECEF;
+    border: .1em #ADB5BD solid;
+    padding: .6em;
+
+
 }
